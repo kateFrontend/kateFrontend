@@ -3,14 +3,11 @@
 <h3>Frontend developer & graphic designer from Montreal, CA</h3>
 
 
-
-
-
 - 💞️ Learning code daily is the best thing I have ever made for myself and I love it so much 
 - 👀 I am interested in software development, web design, website and application development
 - 🌱 I’m currently learning JavaScript, React, Redux, Node
 - 💬 I speak French, English, Russian and Romanian
-<br>
+
 
 ## Skills and Experience:
 <!-- https://simpleicons.org -->
