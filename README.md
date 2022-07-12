@@ -5,7 +5,7 @@
 
 - 💞️ Learning code daily is the best thing I have ever made for myself and I love it so much 
 - 👀 I am interested in software development, web design, website and application development
-- 🌱 I’m currently learning JavaScript, React, Redux, Node
+- 🌱 I’m currently learning JavaScript, React, Redux, Node, Express and MongoDB
 - 💬 I speak French, English, Russian and Romanian
 - ⚡ Fun fact: I create amazing digital artworks<br> (welcome to my instagram)
 
