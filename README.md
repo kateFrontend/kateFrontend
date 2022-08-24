@@ -3,7 +3,7 @@
 <h3>Web developer & graphic designer from Montreal, CA</h3>
 
 
-- 💞️ Learning code daily is the best thing I have ever made for myself
+- 💞️ Learning code daily is the best thing I've ever done for myself.
 - 👀 I am interested in software development, web design, website and application development
 - 🌱 I’m currently learning JavaScript, React/Redux, Node/Express and MongoDB
 - 💬 I speak French, English, Russian and Romanian
