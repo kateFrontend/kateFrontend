@@ -23,6 +23,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-f10c64?logo=react-router&logoColor=white&style=flat"/> 
   <img alt="Figma" src="https://img.shields.io/badge/Figma-coral?style=flat&logo=figma&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-cornflowerblue?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/-GSAP-green" />
 </p>
 
