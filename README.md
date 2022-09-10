@@ -22,6 +22,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-f10c64?logo=react-router&logoColor=white&style=flat"/> 
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-mediumseagreen?logo=node.js&logoColor=white&style=flat"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-coral?style=flat&logo=figma&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-cornflowerblue?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img alt="Glitch" src="https://img.shields.io/badge/Glitch-f14deb?style=flat&logo=glitch&logoColor=white"/> 
