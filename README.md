@@ -29,11 +29,7 @@
   <img alt="Glitch" src="https://img.shields.io/badge/Glitch-f14deb?style=flat&logo=glitch&logoColor=white"/> 
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/-GSAP-green" />
-  
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kateFrontend)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact or follow me:
 
