@@ -31,7 +31,10 @@
   <img alt="" src="https://img.shields.io/badge/-GSAP-green" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kateFrontend&theme=github)
+
+
+![](https://komarev.com/ghpvc/?username=kateFrontend)
 
 ## Contact or follow me:
 
@@ -41,3 +44,5 @@
 kateFrontend/kateFrontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
