@@ -33,6 +33,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kateFrontend&theme=github)
 
+![kateFrontend GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kateFrontend&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=kateFrontend)
 
