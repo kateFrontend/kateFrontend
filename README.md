@@ -3,8 +3,8 @@
 <h3>Web developer & graphic designer from Montreal, CA</h3>
 
 
-- 💞️ Learning code daily is the best thing I've ever done for myself.
-- 👀 I am interested in software development and design.
+- 💞️ eat(); sleep(); code(); repeat();
+- 👀 I'm interested in software development and design.
 - 🌱 I’m currently learning React/Redux & Node/Express.
 - 💬 I speak French, English, Russian and Romanian.
 - ⚡ Fun fact: I create amazing digital artworks<br> (welcome to my instagram)
