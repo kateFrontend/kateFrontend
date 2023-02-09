@@ -3,9 +3,9 @@
 <h3>Web developer & graphic designer from Montreal, CA</h3>
 
 
-- 💞️ eat(); sleep(); code(); repeat();
+- 💞️ Eat(); Sleep(); Code(); Repeat();
 - 👀 I'm interested in software development and design.
-- 🌱 I’m currently learning React/Redux & Node/Express.
+- 🌱 I'm currently improving my skills in MERN stack.
 - 💬 I speak French, English, Russian and Romanian.
 - ⚡ Fun fact: I create amazing digital artworks<br> (welcome to my instagram)
 
