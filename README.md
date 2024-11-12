@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Kate</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Web developer & graphic designer from Montreal, CA</h3>
+<h3>Web developer, graphic & web designer from Montreal, CA</h3>
 
 
 - 💞️ Eat(); Sleep(); Code(); Repeat();
